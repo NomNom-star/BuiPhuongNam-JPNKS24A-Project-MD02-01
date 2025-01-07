@@ -1,0 +1,13 @@
+About Us
+
+1. Vision and Development Direction
+The software will continue to be improved and additional features will be developed in the future to 
+better meet the information management needs of educational institutions.
+
+2. Development
+The software was built by Bui Phuong Nam, a student at the Postal and Telecommunication Institute, 
+with a passion for programming and a desire to apply technology to education.
+
+3. Contact Information
+Email: namuy24@gmail.com
+Phone number: 0388515306

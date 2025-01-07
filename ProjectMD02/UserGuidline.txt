@@ -1,0 +1,36 @@
+1. Introduction
+
+The student and teacher management software has been developed to assist schools and educational 
+institutions in efficiently managing the information of students and teachers. The program runs 
+in a terminal/console environment with a user-friendly interface that is easy to use.
+
+2. How to Use
+
+Launching the Software: Run the executable file StudentsManagement.dev to start using the program.
+
+Main Functions:
+
+Student Management:
+
+Add new students.
+View the student list.
+Search for students by ID or name.
+Update student information.
+Delete student information.
+
+Teacher Management:
+
+Add new teachers.
+View the teacher list.
+Search for teachers by ID or name.
+Update teacher information.
+Delete teacher information.
+
+Operations in the Interface:
+
+Use number keys to select the corresponding function.
+Enter information as instructed on the screen.
+
+3. Notes
+Ensure that the information entered follows the correct format as required.
+Data is stored in a local file, so it is important to regularly back up the data to avoid any loss.
